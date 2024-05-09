@@ -1,8 +1,8 @@
-![MasterHead](https://codecollege.co.za/blog/how-to-become-a-software-engineer/)
+
 
 <h1 align="center">Hi 👋, I'm Shalini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://codecollege.co.za/blog/wp-content/uploads/2020/11/software-engineering-1024x683.jpg">
+
 
 - 🔭 I’m currently pursuing my B-Tech at **Indira Gandhi Delhi Technology University for Women's**
 
