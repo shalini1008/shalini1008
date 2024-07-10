@@ -12,8 +12,8 @@
 
 - 📫 How to reach me **shalini7217625537@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TASCjoTOz58JXIkJaGEwbA8hD1cZqCs9/view?usp=sharing](https://drive.google.com/file/d/1TASCjoTOz58JXIkJaGEwbA8hD1cZqCs9/view?usp=sharing)
-
+- 📄 Know about my experiences[(https://drive.google.com/file/d/1TASCjoTOz58JXIkJaGEwbA8hD1cZqCs9/view?usp=sharing)
+](https://drive.google.com/file/d/19qzOtQfwnXhqRgVwluVvsl_b9kWr57ej/view?usp=drive_link)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shalini-singh-a56a87258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shalini-singh-a56a87258" height="30" width="40" /></a>
