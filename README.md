@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently pursuing my B-Tech at **Indira Gandhi Delhi Technology University for Women's**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Machine Learning and AI**
 
 - 💬 Ask me about **Data Structures**
 
