@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Data Structures**
 
-- 📫 How to reach me **shalini7217625537@gmail.com**
+- 📫 How to reach me **workforyourlife9shalini@gmail.com"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
